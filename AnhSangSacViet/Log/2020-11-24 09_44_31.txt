@@ -1,0 +1,82 @@
+2020-11-02 08:45:26.9699 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 08:45:27.0258 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 08:48:01.7403 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 08:48:01.7403 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 10:39:59.7700 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 10:39:59.8020 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 10:40:59.6685 WebBHDTCHUNG.Controllers.ActiveController svt12 test Dung An Giang Long Xuyên Hanoi 84912345678
+2020-11-02 10:41:40.8108 WebBHDTCHUNG.Controllers.ActiveController svt12 test Dung An Giang Long Xuyên Hanoi 84912345678
+2020-11-02 10:45:05.2769 WebBHDTCHUNG.Controllers.ActiveController svt12 test Dung An Giang Long Xuyên Hanoi 84912345678
+2020-11-02 10:54:45.3152 WebBHDTCHUNG.Controllers.ActiveController svt12 test Dung An Giang Long Xuyên Hanoi 84912345678
+2020-11-02 11:01:28.2441 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 11:01:28.2971 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 11:01:58.3614 WebBHDTCHUNG.Controllers.ActiveController svt12 test Dung An Giang Long Xuyên Hanoi 84912345678
+2020-11-02 11:02:10.6753 WebBHDTCHUNG.Controllers.ActiveController active ok
+2020-11-02 11:02:43.4163 WebBHDTCHUNG.Controllers.ActiveController svt12 test Dung An Giang Long Xuyên Hanoi 84912345678
+2020-11-02 11:02:49.5916 WebBHDTCHUNG.Controllers.ActiveController actived
+2020-11-02 11:02:55.9678 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 11:02:55.9768 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 11:03:03.3144 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 11:03:03.3234 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 11:03:14.9846 WebBHDTCHUNG.Controllers.SearchController svt12
+2020-11-02 11:03:15.0304 WebBHDTCHUNG.Controllers.SearchController serial ok
+2020-11-02 11:05:35.1128 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 11:05:35.1218 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 11:08:58.8611 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 11:08:58.8971 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 11:10:09.6062 WebBHDTCHUNG.Controllers.WarrantiController svt12 An Giang Long Xuyên 84912345678 Dung Hanoi Mô t?
+2020-11-02 11:10:17.7338 WebBHDTCHUNG.Controllers.WarrantiController warranti ok
+2020-11-02 11:19:13.0662 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 11:19:13.0732 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 11:27:48.8690 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 11:27:48.8690 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 11:27:55.0609 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 11:27:55.0689 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 11:28:01.0550 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 11:28:01.0550 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 11:29:24.4480 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 11:29:24.4480 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 11:42:11.9364 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 11:42:11.9904 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 11:42:34.4616 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-02 11:42:34.4826 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-02 11:43:15.9056 WebBHDTCHUNG.Controllers.WarrantiController svt12 An Giang Long Xuyên 84912345678 Dung Hanoi Mô t? mail@mail.com
+2020-11-02 11:43:23.6259 WebBHDTCHUNG.Controllers.WarrantiController warranti ok
+2020-11-02 11:44:59.3790 WebBHDTCHUNG.Controllers.WarrantiController svt12 Yên Bái Yên Bái 84912345689 Dung Hanoi Mô T? mail@d.com
+2020-11-02 11:45:10.0505 WebBHDTCHUNG.Controllers.WarrantiController warranti ok
+2020-11-19 22:11:26.2667 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-19 22:11:26.3027 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-19 22:29:17.2118 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-19 22:29:17.3367 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-20 08:36:38.4806 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-20 08:36:38.5105 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-20 09:38:46.8471 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-20 09:38:46.8821 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-20 09:42:22.2638 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-20 09:42:22.2982 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-20 09:45:59.8413 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-20 09:45:59.8753 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-20 10:05:43.7704 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-20 10:05:43.8093 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-20 10:18:00.8834 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-20 10:18:00.9774 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-23 15:51:59.0048 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-23 15:51:59.0607 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-23 15:57:32.3613 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-23 15:57:32.3959 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-23 16:03:59.1179 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-23 16:03:59.1629 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-23 16:10:17.5445 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-23 16:10:17.5815 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-23 17:05:06.7108 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-23 17:05:06.7478 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-23 17:06:21.7447 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-23 17:06:21.7946 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-23 17:08:17.8034 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-23 17:08:17.8384 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-23 17:09:32.6689 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-23 17:09:32.6859 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-24 09:12:19.5442 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-24 09:12:19.5786 WebBHDTCHUNG.Controllers.HomeController 
+2020-11-24 09:38:31.9126 WebBHDTCHUNG.Controllers.HomeController ::1
+2020-11-24 09:38:31.9566 WebBHDTCHUNG.Controllers.HomeController 
